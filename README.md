@@ -1,6 +1,10 @@
 # Certifications
 This is a repository to store my achieved Certificates
 
+## EIT Deep Tech Talent Robotics In Space 2025
+![Robotics In Space - Page 1](assets/Robotics_in_Space_2025_1.jpg)
+![Robotics In Space - Page 1](assets/Robotics_in_Space_2025_2.jpg)
+
 ## HuggingFace LeRobot Worldwide Hackathon 2025
 ![HuggingFace LeRobot](assets/lerobot_huggingface_hackathon.png)
 
